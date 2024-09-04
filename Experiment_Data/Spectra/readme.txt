@@ -1,0 +1,2 @@
+The files contain the measured spectral radiances of the four displays used in the experiment in .mat (MATLAB) and .csv (Excel) format. 
+Each row contains the spectra of one of the 11 colors tested in the same order as presented in the paper, i.e. row 1 is Color 1 in the paper.
