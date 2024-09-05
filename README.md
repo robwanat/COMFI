@@ -1,5 +1,4 @@
 # COMFI
-A Calibrated Observer Metameric Failure Index for Color Critical Tasks
 Supplementary material for the paper "COMFI: A Calibrated Observer Metameric Failure Index for Color
 Critical Tasks". Contains the experimental data, its analysis and a minimum code necessary
 to calculate COMFI. Each subfolder contains a readme.txt file with more descriptions of
